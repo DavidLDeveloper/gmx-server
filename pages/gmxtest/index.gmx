@@ -1,0 +1,14 @@
+<Header />
+## test GMX
+This is the .gmx test page.
+=> gemini://localhost:3000/
+
+## this will be test element:
+
+<testComponent title="here is test" preface="##" />
+<testComponent title='Test with "single" quotes' />
+<testComponent title=`Test with backtick quotes` />
+
+> quote is a thing?
+
+<Time />
